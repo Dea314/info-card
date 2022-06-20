@@ -1,1 +1,1 @@
-# info card# info-card
+# info card
